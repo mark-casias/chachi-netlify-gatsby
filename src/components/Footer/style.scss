@@ -1,0 +1,17 @@
+footer {
+  padding-top: 15px;
+  background: #222222;
+  .footer-nav {
+    color: #000000;
+    p {font-size: 12px;}
+
+    a {
+      color: #B39F5A;
+      text-decoration: none;
+      &:hover {
+        color: #B39F5A;
+        text-decoration: none;
+      }
+    }
+  }
+}

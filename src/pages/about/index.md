@@ -1,19 +1,19 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About
+image: /img/Chachi_Headshot_2016.jpg
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Dave “Chachi” Denes
+President, Benztown
+President, Hollywood Radio Networks, Inc.
+Co-Founder, Parker and Hunter Advertising
+Partner, Royal Duke
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Dave “Chachi” Denes began his radio career in 1996 at Star 100.7/KFMB in San Diego, working with mentor, Tracy Johnson. He earned acclaim as producer and on-air sidekick for Michael Steele (1996-1998) and later as producer for Jagger and Kristi (1998-2000). After graduating from the University of San Diego with a degree in Communications, Denes came to Los Angeles at the invitation of Roy Laughlin, and spent a year as Rick Dees’ assistant producer at KIIS-FM. In 2001, Denes came to KBIG and KOST-FM, working two years as Operations Manager for both stations and serving as Jhani Kaye’s right hand man until Craig Rossi and Michael Martin appointed him Program Director for KBIG/MYfm in Los Angeles. When he was named to the position in 2004, he was just 28 years old, making him the youngest PD in LA. During his five-year tenure, he grew the station from 17th-rated to 5th-rated among English language stations Adults 25-54.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+In 2008, Denes co-founded Benztown, an international radio imaging, production library, and voiceover services company which now has over 1,700 affiliations on six different continents. In July 2010,  Denes formed Benztown Radio Networks (BRN) a wholly-owned subsidiary of Hollywood Radio Networks, Inc. Benztown Radio Networks is an international media syndication company providing unique, first-rate programming and features to radio stations and media companies around the world, including The Todd N Tyler Radio Empire, Your Weekend With Jim Brickman, Hot Mix, Slow Jams with R Dub!, and Flashback. The companies have offices and studios in Los Angeles, New York and Stuttgart. For more information, please visit www.benztown.com
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Denes is currently President of Benztown and Hollywood Radio Networks, Inc.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+chachi@benztown.com
