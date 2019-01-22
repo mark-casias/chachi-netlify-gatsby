@@ -1,3 +1,16 @@
-.column {
-  border: 1px solid blue;
+
+.news_post {
+  margin-bottom: 15px;
+  h4 {
+    margin-bottom: 5px;
+    a {
+      font-weight: bold;
+      color: #b72937;
+      font-size: 1em;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
 }
