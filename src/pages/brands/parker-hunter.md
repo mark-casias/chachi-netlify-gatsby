@@ -13,5 +13,6 @@ brands:
 
       For more information, please visit www.parkerandhunter.com.
     image: /img/logo_parkerhunter.jpeg
+    name: Parker and Hunter
 ---
 
