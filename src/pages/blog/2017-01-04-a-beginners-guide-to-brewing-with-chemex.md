@@ -1,27 +1,27 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: Benztown Kicks off New Radio Mentorship Program for Students in Radio!
+date: 2019-01-31T15:04:10.000Z
+description: >-
+  Benztown and The National Radio Talent System™ also announced the selection of
+  the program’s first quarter mentee, Susquehanna University student Carly
+  Rogers. Rogers participated in the Confer Radio Talent Institute last summer
+  at Bloomsburg University of Pennsylvania. Through the Benztown Mentorship
+  Program, Rogers will be personally mentored by radio professional Jack
+  Diamond, Host of &quot;The Jack Diamond Morning Show on CUMULUS MEDIA’s Mix
+  107.3/WRQX-FM in Washington, D.C., during the months of January, February and
+  March. Diamond will mentor Rogers via teleconference and at WRQX-FM studios in
+  Washington, D.C.
 tags:
   - brewing
   - chemex
 ---
-![chemex](/img/chemex.jpg)
+Benztown, a leading international radio imaging, production library, programming, jingles and voiceover services company with over 2,300 affiliations on six different continents, and The National Radio Talent System™, the system of Radio Talent Institutes across America, discovering and preparing the next generation of broadcasters, announce the launch of the Benztown Mentorship Program. The Benztown Mentorship Program will offer one- to-one mentoring to select students who are accepted into The Radio Talent Institutes of the National Radio Talent System™, on an ongoing basis, with structured mentoring opportunities during the Spring and Fall Semesters.
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Benztown and The National Radio Talent System™ also announced the selection of the program’s first quarter mentee, Susquehanna University student Carly Rogers. Rogers participated in the Confer Radio Talent Institute last summer at Bloomsburg University of Pennsylvania. Through the Benztown Mentorship Program, Rogers will be personally mentored by radio professional Jack Diamond, Host of &quot;The Jack Diamond Morning Show on CUMULUS MEDIA’s Mix 107.3/WRQX-FM in Washington, D.C., during the months of January, February and March. Diamond will mentor Rogers via teleconference and at WRQX-FM studios in Washington, D.C.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Dave “Chachi” Denes, Benztown President, said: “We are so pleased to help The National Radio Talent System™ connect some of radio’s most accomplished professionals with promising students working toward careers in radio through the Benztown Mentorship Program. Our industry is only as strong as the talent that we attract and train, and we believe that this program will create opportunities for up-and-coming young broadcasters and radio stations and companies looking to hire the very Best.”
 
-## The little secrets of Chemex brewing
+Dan Vallie, President, The National Radio Talent System™, said: “We were talking internally about doing a mentorship program when Benztown/Chachi approached us. The magic happened, and it’s exciting to start 2019 launching the Benztown Mentorship Program. This is an outstanding opportunity and experience for the selected students.” Jack Diamond, Host of “The Jack Diamond Morning Show” on Mix 107.3/WRQX-FM in Washington, D.C., said: “I am pleased and honored to have been asked to be the first mentor of the Benztown Mentorship Program, in association with The National Radio Talent System™. When two of the absolute best in our business, Dan Vallie and Dave “Chachi” Denes, ask, you say yes! Working with and developing talent has long been a passion. It’s a way for all of us to support and improve our amazing industry. It’s also great way to thank those who were there for us in the beginning and helped us along our journey. I can’t wait to get started!”
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+For more information about the Benztown Mentorship Program or to participate in the program as a mentor, contact Susan Aksu at sa@benztown.com or at (818) 842-4600.
