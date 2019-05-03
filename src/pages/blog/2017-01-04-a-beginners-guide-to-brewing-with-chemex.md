@@ -13,8 +13,8 @@ description: >-
   March. Diamond will mentor Rogers via teleconference and at WRQX-FM studios in
   Washington, D.C.
 tags:
-  - brewing
-  - chemex
+  - benztown
+  - mentorship
 ---
 Benztown, a leading international radio imaging, production library, programming, jingles and voiceover services company with over 2,300 affiliations on six different continents, and The National Radio Talent System™, the system of Radio Talent Institutes across America, discovering and preparing the next generation of broadcasters, announce the launch of the Benztown Mentorship Program. The Benztown Mentorship Program will offer one- to-one mentoring to select students who are accepted into The Radio Talent Institutes of the National Radio Talent System™, on an ongoing basis, with structured mentoring opportunities during the Spring and Fall Semesters.
 
