@@ -1,33 +1,28 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+templateKey: blog-post
+title: >-
+  Benztown Production Libraries Continue to Break the Audio Mold With New
+  Affiliates in Boston, Chicago + LA!
+date: 2019-04-22T14:04:00.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Benztown, the most powerful name in audio branding, announces that it has
+  added three new production library affiliates in March, bringing its creative
+  audio imaging workparts to over 1,200 affiliates worldwide. Benztown’s newest
+  affiliates are: Beasley Broadcast Group’s WBOS-FM/Alt 92.9 in Boston, MA (Rock
+  Library); Hubbard Broadcasting’s WTMX-FM/101.9fm THE MIX in Chicago, IL (Hot
+  AC Library, VO, Custom Imaging); and Salem Media Group’s KFSH-FM/95.9 FM The
+  Fish in Los Angeles, CA (AC Library).
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - benztown
 ---
+Benztown, the most powerful name in audio branding, announces that it has added three new production library affiliates in March, bringing its creative audio imaging workparts to over 1,200 affiliates worldwide. Benztown’s newest affiliates are: Beasley Broadcast Group’s WBOS-FM/Alt 92.9  in Boston, MA (Rock Library); Hubbard Broadcasting’s WTMX-FM/101.9fm THE MIX in Chicago, IL (Hot AC Library, VO, Custom Imaging); and Salem Media Group’s KFSH-FM/95.9 FM The Fish in Los Angeles, CA (AC Library).
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Dave “Chachi” Denes, President, Benztown, said: “We welcome these three phenomenal audio brands to Benztown. We’re excited to be a part of helping to give them a competitive edge with libraries that enable their stations to stand out, stay fresh and break through with listeners.” Denes noted: “The best radio stations and audio brands sound different than their competitors, many of whom are using ‘big box’ imaging that perpetuates a sameness of sound that fails to differentiate them in the marketplace. Benztown libraries sound different because they are different. They are created by a diverse and talented team of audio production artists, composers, and musicians across the country and around the world who understand that being different is a good thing—and sounding different is an even better thing.”
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Jimmy Steal, Vice President, Brand & Content, WTMX-FM/101.9fm THE MIX, said: "The package, the service, and the people are all top notch. An excellent product and experience working with them."
 
-## A little history
+Ken West, Program Director, WBOS-FM/Alt 92.9, said: “Benztown provides the tools to make our stations sound alive with quick and excellent customer service. What’s not to love?”
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+With studios in Los Angeles, New York, and Stuttgart, Benztown offers the highest quality audio imaging workparts for 23 libraries across 13 music and spoken word formats including AC, Hot AC, CHR, Country, Urban, Rhythmic, Classic Hits, Rock, News/Talk, Sports, and JACK. Benztown’s proprietary web-based imaging solution, Benztown Branding, is used daily by nearly 1,200 broadcast radio stations and digital services worldwide.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+For more information and to sign up for a free trial of Benztown Production Libraries, visit https://www.benztown.com/libraries or contact Masa Patterson at Benztown at mp@benztown.com or (818) 842-4600.
