@@ -11,8 +11,7 @@ description: >-
   Benztown has made its imaging libraries available at no cost to the school for
   the last four years.
 tags:
-  - flavor
-  - tasting
+  - benztown
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
