@@ -5,8 +5,11 @@ title: >-
   Benztown Libraries! 
 date: 2019-05-02T14:04:10.000Z
 description: >-
-  The Coffee Taster’s Flavor Wheel, the official resource used by coffee
-  tasters, has been revised for the first time this year.
+  Jasper High School's Radio/TV 2 Class in Jasper, Indiana, and their student
+  radio station WJWS-LP/93.7 The Scratch recently placed 1st in the radio
+  imaging category of the Indiana Association of School Broadcasters contest.
+  Benztown has made its imaging libraries available at no cost to the school for
+  the last four years.
 tags:
   - flavor
   - tasting
