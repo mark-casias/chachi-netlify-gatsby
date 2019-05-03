@@ -12,6 +12,7 @@ description: >-
   the last four years.
 tags:
   - benztown
+  - blog
 ---
 ![flavor wheel](/img/flavor_wheel.jpg)
 
