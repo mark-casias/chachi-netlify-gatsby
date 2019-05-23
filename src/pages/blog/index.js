@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, graphql } from "gatsby";
+import { graphql } from "gatsby";
 
 import Layout from "../../components/Layout";
 
@@ -14,7 +14,7 @@ const BlogPage = props => {
           <h1 className="title">Blog</h1>
           {props.data.allMarkdownRemark.edges.map(({ node }) => {
             return (
-              <div className="blog-post">
+              <div className="blog-post" key={node.id}>
                 <h2 className="blog-post__title">{node.frontmatter.title}</h2>
                 <div className="blog-post__body">
                   {node.frontmatter.description}
