@@ -1,27 +1,39 @@
-import React from 'react';
-import { Link, graphql } from 'gatsby'
+import React from "react";
+import { Link, graphql } from "gatsby";
 
-import Layout from '../../components/Layout';
+import Layout from "../../components/Layout";
 
-const BlogPage = (props) => {
-  return(
+import "./blog-style.scss";
+
+const BlogPage = props => {
+  console.log(props);
+  return (
     <Layout>
       <section className="section main-image">
-        <div className="container">
-          <h1>Blog</h1>
-          <div>Blogs to go here</div>
+        <div className="container blog-posts">
+          <h1 className="title">Blog</h1>
+          {props.data.allMarkdownRemark.edges.map(({ node }) => {
+            return (
+              <div className="blog-post">
+                <h2 className="blog-post__title">{node.frontmatter.title}</h2>
+                <div className="blog-post__body">
+                  {node.frontmatter.description}
+                </div>
+              </div>
+            );
+          })}
         </div>
       </section>
     </Layout>
-  )
-}
+  );
+};
 
 export default BlogPage;
 export const blogPageQuery = graphql`
   query blogPageQuery {
     allMarkdownRemark(
-      sort: { order: DESC , fields: [frontmatter___title] },
-      filter: { frontmatter: { templateKey: { eq: "blog-post" } }}
+      sort: { order: DESC, fields: [frontmatter___title] }
+      filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
     ) {
       edges {
         node {
@@ -40,4 +52,4 @@ export const blogPageQuery = graphql`
       }
     }
   }
-`
+`;
