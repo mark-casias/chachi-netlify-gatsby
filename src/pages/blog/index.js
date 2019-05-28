@@ -1,12 +1,11 @@
 import React from "react";
-import { graphql } from "gatsby";
+import { graphql, Link } from "gatsby";
 
 import Layout from "../../components/Layout";
 
 import "./blog-style.scss";
 
 const BlogPage = props => {
-  console.log(props);
   return (
     <Layout>
       <section className="section main-image">
@@ -18,6 +17,9 @@ const BlogPage = props => {
                 <h2 className="blog-post__title">{node.frontmatter.title}</h2>
                 <div className="blog-post__body">
                   {node.frontmatter.description}
+                </div>
+                <div className="blog-post__link">
+                  <Link to={node.fields.slug}>More</Link>
                 </div>
               </div>
             );

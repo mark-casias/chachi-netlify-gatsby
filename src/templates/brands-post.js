@@ -1,10 +1,11 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import Helmet from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { kebabCase } from "lodash";
+import Helmet from "react-helmet";
+import { graphql, Link } from "gatsby";
+import Image from "gatsby-image";
+import Layout from "../components/Layout";
+import Content, { HTMLContent } from "../components/Content";
 
 export const BrandsPostTemplate = ({
   content,
@@ -13,12 +14,12 @@ export const BrandsPostTemplate = ({
   tags,
   title,
   helmet,
+  brands
 }) => {
-  const PostContent = contentComponent || Content
-
+  const PostContent = contentComponent || Content;
   return (
     <section className="section">
-      {helmet || ''}
+      {helmet || ""}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -26,6 +27,21 @@ export const BrandsPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            {brands.map(brand => {
+              return (
+                <div className="brand">
+                  <div className="brand--image">
+                    <Image fluid={brand.image.childImageSharp.fluid} />
+                  </div>
+                  <div className="brand--content">
+                    <h2 className="brand--title">{brand.name}</h2>
+                    <div className="brand--description">
+                      {brand.description}
+                    </div>
+                  </div>
+                </div>
+              );
+            })}
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -43,20 +59,19 @@ export const BrandsPostTemplate = ({
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 BrandsPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
   title: PropTypes.string,
-  helmet: PropTypes.object,
-}
+  helmet: PropTypes.object
+};
 
 const BrandsPost = ({ data }) => {
-  console.log(data);
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
     <Layout>
@@ -65,27 +80,29 @@ const BrandsPost = ({ data }) => {
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
         helmet={
-          <Helmet
-            titleTemplate="%s | Brand"
-          >
+          <Helmet titleTemplate="%s | Brand">
             <title>{`${post.frontmatter.title}`}</title>
-            <meta name="description" content={`${post.frontmatter.description}`} />
+            <meta
+              name="description"
+              content={`${post.frontmatter.description}`}
+            />
           </Helmet>
         }
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
+        brands={post.frontmatter.brands}
       />
     </Layout>
-  )
-}
+  );
+};
 
 BrandsPost.propTypes = {
   data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
+    markdownRemark: PropTypes.object
+  })
+};
 
-export default BrandsPost
+export default BrandsPost;
 
 export const pageQuery = graphql`
   query BrandsPostByID($id: String!) {
@@ -98,7 +115,7 @@ export const pageQuery = graphql`
         date
         icon {
           childImageSharp {
-            fixed(height:100) {
+            fixed(height: 100) {
               src
             }
           }
@@ -113,9 +130,8 @@ export const pageQuery = graphql`
               }
             }
           }
-
         }
       }
     }
   }
-`
+`;
