@@ -14,10 +14,19 @@ more: >-
   nearly 1,200 broadcast radio stations and digital services worldwide. Benztown
   also provides custom voiceover, jingle, and copywriting services.
 brands:
-  - description: |
-      Blurbus exudus
-    image: /img/coffee.png
-    name: Benztown Branding
+  - description: >-
+      Benztown is an international radio imaging, production library,
+      programming, jingles, and voiceover services company, with offices in Los
+      Angeles, New York, and Stuttgart, and over 2,300 affiliations on six
+      continents. The company offers the highest quality imaging workparts for
+      20 libraries across 13 formats, including AC, Hot AC, CHR, Country, Urban,
+      Rhythmic, Classic Hits, Rock, News/Talk, Sports and JACK. Benztown’s
+      industry-leading technology and proprietary Web-based imaging solution,
+      Benztown Branding, is used daily by nearly 1,200 broadcast radio stations
+      and digital services worldwide. Benztown also provides custom voiceover,
+      jingle, and copywriting services.
+    image: /img/benztownnbranding.png
+    name: 'Benztown '
   - description: >
       BenztownVoiceoverGroup.com matches stations to the best radio voice-over
       artists in the world for barter. Designed by Dave “Chachi” Denes, Benztown
@@ -26,7 +35,7 @@ brands:
       stations face. For the first time ever programmers now have the
       flexibility to use barter giving them unprecedented access to the worlds
       top 100 radio voice-over artists regardless of their budget.
-    image: /img/og-image.jpg
+    image: /img/benztown-voiceover.jpg
     name: Benztown Voice-Over Group
 ---
 
