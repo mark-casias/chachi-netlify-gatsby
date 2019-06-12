@@ -2,7 +2,7 @@
 templateKey: brands-post
 title: Benztown
 date: 2019-05-28T23:23:50.493Z
-icon: /img/bz_vertical_logo_black.png
+icon: /img/bz_vertical_logo_black-®_square.jpeg
 more: >-
   Benztown is an international radio imaging, production library, programming,
   jingles, and voiceover services company, with offices in Los Angeles, New
