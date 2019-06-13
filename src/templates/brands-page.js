@@ -6,7 +6,9 @@ import Layout from "../components/Layout";
 
 export const BrandsPageTemplate = props => {
   const { page, posts } = props;
-  console.log(posts.markdownRemark);
+  if (!posts.markdownRemark) {
+    return "";
+  }
   return (
     <section className="section container brands-page">
       <h1 className="title">{page.frontmatter.title}</h1>

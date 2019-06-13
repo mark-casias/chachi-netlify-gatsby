@@ -27,9 +27,10 @@ export const BrandsPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
-            {brands.map(brand => {
+            {brands.map((brand, key) => {
+              // console.log(brand);
               return (
-                <div className="brand">
+                <div className="brand" key={key}>
                   <div className="brand--image">
                     <Image fluid={brand.image.childImageSharp.fluid} />
                   </div>
@@ -126,6 +127,7 @@ export const pageQuery = graphql`
           image {
             childImageSharp {
               fluid(maxHeight: 200) {
+                aspectRatio
                 src
               }
             }
