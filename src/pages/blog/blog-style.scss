@@ -15,4 +15,15 @@
 .blog-post__title {
   font-size: 1.1rem;
   font-weight: bold;
+
+  a {
+    font-weight: 700;
+    color: #b72937;
+    font-size: 1em;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }

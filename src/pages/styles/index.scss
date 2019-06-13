@@ -1,16 +1,50 @@
+a {
+  font-weight: bold;
+  color: #b72937;
+  font-size: 1em;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.products-list {
+  .products {
+    display: flex;
+    justify-content: center;
+
+    .products-item {
+      display: flex;
+      max-width: 33%;
+      margin-right: 1rem;
+
+      .products-item__logo {
+        margin-right: 1rem;
+      }
+    }
+  }
+}
 
 .news_post {
   margin-bottom: 15px;
+
   h4 {
     margin-bottom: 5px;
+
     a {
       font-weight: bold;
       color: #b72937;
       font-size: 1em;
       text-decoration: none;
+
       &:hover {
         text-decoration: underline;
       }
     }
   }
+}
+
+a.navbar-item:hover {
+  color: #b72937;
 }

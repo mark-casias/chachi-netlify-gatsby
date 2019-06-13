@@ -14,12 +14,11 @@ const BlogPage = props => {
           {props.data.allMarkdownRemark.edges.map(({ node }) => {
             return (
               <div className="blog-post" key={node.id}>
-                <h2 className="blog-post__title">{node.frontmatter.title}</h2>
+                <h2 className="blog-post__title">
+                  <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+                </h2>
                 <div className="blog-post__body">
                   {node.frontmatter.description}
-                </div>
-                <div className="blog-post__link">
-                  <Link to={node.fields.slug}>More</Link>
                 </div>
               </div>
             );

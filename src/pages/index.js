@@ -50,33 +50,32 @@ export default class IndexPage extends React.Component {
         </section>
 
         <section className="section products-list">
-          <div className="container">
-            <div className="columns is-centered">
-              {posts.map(({ node }) => {
-                return (
-                  <div className="column is-4" key={node.id}>
-                    <div className="columns">
-                      <div className="circles column is-one-fifth">
-                        <Link to={node.fields.slug}>
-                          <Img
-                            fixed={node.frontmatter.icon.childImageSharp.fixed}
-                          />
-                        </Link>
-                      </div>
-                      <div className="services column">
-                        <h2>{node.frontmatter.title}</h2>
-                        <div>
-                          <div>{node.frontmatter.more}</div>
-                          <div>
-                            <Link to={node.fields.slug}>Learn More</Link>
-                          </div>
-                        </div>
+          <div className="container products">
+            {posts.map(({ node }) => {
+              return (
+                <div
+                  className={`products-item product-${node.id}`}
+                  key={node.id}
+                >
+                  <div className="products-item__logo">
+                    <Link to={node.fields.slug}>
+                      <Img
+                        fixed={node.frontmatter.icon.childImageSharp.fixed}
+                      />
+                    </Link>
+                  </div>
+                  <div className="products-item__info">
+                    <h2>{node.frontmatter.title}</h2>
+                    <div>
+                      <div>{node.frontmatter.more}</div>
+                      <div>
+                        <Link to={node.fields.slug}>Learn More</Link>
                       </div>
                     </div>
                   </div>
-                );
-              })}
-            </div>
+                </div>
+              );
+            })}
           </div>
         </section>
 
@@ -86,7 +85,7 @@ export default class IndexPage extends React.Component {
               <div className="column is-4">
                 <h3>Benztown News</h3>
                 {/* http://www.benztown.com/news/rss/&chan=y&num=5&desc=1&utf=y */}
-                {this.state.posts.slice(0, 5).map((post, key) => (
+                {this.state.posts.slice(0, 3).map((post, key) => (
                   <div className="news_post" key={key}>
                     <h4 className="news_post__title">
                       <a href={post.link._text}>{post.title._text}</a>
@@ -154,7 +153,7 @@ export const pageQuery = graphql`
             more
             icon {
               childImageSharp {
-                fixed(height: 25, width: 25) {
+                fixed(height: 100, width: 100) {
                   ...GatsbyImageSharpFixed
                 }
               }
