@@ -3,15 +3,13 @@ templateKey: about-page
 title: About
 image: /img/Chachi_Headshot_2016.jpg
 ---
-Dave “Chachi” Denes
+**Dave “Chachi” Denes**
 
-President, Benztown/Benztown Radio Networks
+**President, Benztown/Benztown Radio Networks**
 
-Executive Producer, Benztown + McVay Media Podcast Networks
+**Executive Producer, Benztown + McVay Media Podcast Networks**
 
 Dave “Chachi” Denes is President and Co-Founder of Benztown, a leading international radio imaging, production library, programming, podcasting, jingles and voiceover services company with over 2,900 affiliations on six different continents. Benztown was named to the exclusive Inc. 5000 for five consecutive years as one of America’s Fastest Growing Privately Held Companies, and one of the fastest-growing companies in the U.S. Media sector. The company is known for its fresh, creative audio brands and company ethos, which incorporates best practices in audio branding and production with a commitment to the community and industries it serves. Under Denes’ leadership, Benztown has been honored for multiple years as Imaging/Production Company of the Year at the Worldwide Radio Summit in Los Angeles, CA, and was recognized for Best Workplace Culture by Glendale Tech Week.
-
-
 
 Denes co-founded Benztown in 2008 with international radio producers, Andreas Sannemann and Oliver Klenk, both based in Stuttgart, Germany. In 2010, Denes launched Benztown Radio Networks, an international media syndication company providing dynamic programming, features and services to radio stations and media companies around the world. With studios in Los Angeles, New York, and Stuttgart, Benztown offers the highest quality audio imaging workparts for 23 libraries across 14 music and spoken word formats including AC, Hot AC, CHR, Country, Hip Hop and R&B, Rhythmic, Classic Hits, Rock, News/Talk, Sports, and JACK. Benztown provides custom VO and imaging across all formats, including commercial VO and copywriting. Benztown Radio Networks produces, markets and distributes high quality programming and services to radio stations, including: The Rick Dees Weekly Top 40 Countdown, The Daily Dees Show, The Todd-N-Tyler Radio Empire, Hot Mix, Sunday Night Slow Jams with R Dub!, Vipology, Audio Architecture, Incentive Sales Rewards, Top 10 Now and Then, Tough Love With Siri, Ask Alexa and Flashback.
 
