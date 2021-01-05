@@ -7,7 +7,7 @@
     "github": "git@github.com:mark-casias/chachi-netlify-gatsby.git"
   },
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "bulma": "^0.7.5",
     "fs": "0.0.1-security",
     "gatsby": "^2.9.2",
